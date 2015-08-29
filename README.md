@@ -7,9 +7,8 @@ Copyright (c) 2015.
 
 Build enviroment.
 ---
-- Any OS
-- Any software
-- etc...
+- Windows 7 Professional 32bit SP1
+- Blender 2.74
 
 License.
 ---
