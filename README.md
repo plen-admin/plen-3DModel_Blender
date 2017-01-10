@@ -1,4 +1,4 @@
-PLEN2 - 3DModel for Blender
+3D Model for Blender | PLEN Project Company Inc.
 ===============================================================================
 
 ## Copyright (c) 2015,
@@ -10,4 +10,4 @@ PLEN2 - 3DModel for Blender
 - Blender 2.74
 
 ## License
-This material is released under the Creative Commons BY 4.0.
+This material is released under the [Creative Commons BY 4.0](http://creativecommons.org/licenses/by/4.0/).
