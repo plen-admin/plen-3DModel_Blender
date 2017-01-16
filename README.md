@@ -1,6 +1,9 @@
 3D Model for Blender | PLEN Project Company Inc.
 ===============================================================================
 
+## Attention!
+We stopped development of the product, and currently it is not supported and maintained.
+
 ## Copyright (c) 2015,
 - [Ryotaro HAMANO](https://github.com/yurueater)
 - [PLEN Project Company Inc.](https://plen.jp)
